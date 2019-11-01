@@ -8,3 +8,5 @@ Lembre-se de deixar instruções para execução das aplicações.
 
 Por favor, instale o docker e docker-compose em sua máquina (https://docs.docker.com/install/) e execute 
 `docker-compose up --build`
+
+Inseri um arquivo do postman para facilitar os testes.
